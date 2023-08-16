@@ -1,0 +1,238 @@
+body{
+  background-image: linear-gradient( 135deg,rgb(20,50,100), rgb(20, 50, 70), rgb(20, 70, 50));
+  margin: 0;
+  padding: 0%;
+  overflow-x:hidden;
+}
+
+.pes{
+    padding-left: 400px;
+}
+
+.ini{
+  padding-left: 85%;
+}
+
+input{
+    background-color: rgb(00, 150, 150);
+}
+
+div {
+    background-color: rgb(5, 20, 20);
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 1.5%;
+  }
+
+  div ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  div li {
+    display: inline;
+    margin-right: 10px;
+  }
+
+  div a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  input, textarea{
+    width: 250px;
+    padding: 5px;
+    font-size: 10px;
+    color: #333;
+    border: 1px solid rgb(0, 40, 40);
+    border-radius: 25px;
+}
+
+  form{
+    text-align: left;
+}
+
+.form-group{
+    margin-bottom: 20px;
+}
+
+footer {
+  border: 2px solid rgb(00, 60, 60);
+  background-color: #333;
+  color: #fff;
+  padding: 0%;
+  text-align: center;
+  width: 100%;
+  margin-left: 0%;
+  margin-bottom: 0%;
+
+}
+
+nav {
+  border: 2px solid rgb(00, 60, 60);
+  background-color: #333;
+  color: #fff;
+  padding: 0px;
+  width: 100%;
+  margin: 0%;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li h1{
+  display: inline;
+
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a, p, h1{
+  font-family: sans-serif;
+}
+
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #919191;
+  color: #ffffff;
+  text-decoration: none;
+  border: none;
+  border-radius: 20px;
+  font-size: 16px;
+  transition: background-color 0.3 ease;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+#btn-escuro:hover{
+  background-image: linear-gradient( 135deg,rgb(20,50,100), rgb(20, 50, 70), rgb(20, 70, 50));
+}
+
+.button:hover{
+  background-color: #616161;
+}
+
+.texto{
+  color: #fff;
+  text-align: center;
+  border-radius: 20px;
+  margin-bottom: 51%;
+}
+
+/* tema claro */
+.claro {
+  background-image: linear-gradient( 135deg,rgb(40,100,200), rgb(40, 100, 140), rgb(40, 140, 100));
+  margin: 0;
+  padding: 0%;
+  overflow-x:hidden;
+}
+
+.navc {
+  border: 2px solid rgb(00, 120, 120);
+  background-color: #f1f1f1;
+  color: #000000;
+  padding: 0px;
+  width: 100%;
+  margin: 0%;
+}
+
+.intec {
+  width: 250px;
+    padding: 5px;
+    font-size: 10px;
+    color: #ffffff;
+    border: 1px solid rgb(0, 80, 80);
+    border-radius: 25px;
+}
+
+.footerc {
+  border: 2px solid rgb(00, 120, 120);
+  background-color: #f1f1f1;
+  color: #000000;
+  padding: 0%;
+  text-align: center;
+  width: 100%;
+  margin-left: 0%;
+  margin-bottom: 0%;
+}
+
+.diiv {
+    background-color: rgb(15, 50, 50);
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 1.5%;
+}
+
+.diiva {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.buttonc {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #919191;
+  color: #ffffff;
+  text-decoration: none;
+  border: none;
+  border-radius: 20px;
+  font-size: 16px;
+  transition: background-color 0.3 ease;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+#btn-claro:hover{
+  background-image: linear-gradient( 135deg,rgb(40,100,200), rgb(40, 100, 140), rgb(40, 140, 100));
+}
+
+.buttonc:hover{
+  background-color: #616161;
+}
+
+/*tema 1*/
+.tem1 {
+  background-image: linear-gradient( 135deg,rgb(75, 4, 150), rgb(96, 22, 105), rgb(5, 12, 142));
+  margin: 0;
+  padding: 0%;
+  overflow-x:hidden;
+}
+
+#btn-tema1:hover{
+  background-image: linear-gradient( 135deg,rgb(75, 4, 150), rgb(96, 22, 105), rgb(5, 12, 142));
+}
+
+/*tema 2*/
+.tem2 {
+  background-image: linear-gradient( 135deg,rgb(147, 33, 33), rgb(147, 36, 108), rgb(162, 29, 162));
+  margin: 0;
+  padding: 0%;
+  overflow-x:hidden;
+}
+
+#btn-tema2:hover{
+  background-image: linear-gradient( 135deg,rgb(147, 33, 33), rgb(147, 36, 108), rgb(162, 29, 162));  
+}
+
+/*tema 3*/
+.tem3 {
+  background-image: linear-gradient( 135deg,rgb(45, 196, 31), rgb(98, 140, 40), rgb(221, 221, 0));
+  margin: 0;
+  padding: 0%;
+  overflow-x:hidden;
+}
+
+#btn-tema3:hover{
+  background-image: linear-gradient( 135deg,rgb(45, 196, 31), rgb(98, 140, 40), rgb(221, 221, 0)); 
+}
