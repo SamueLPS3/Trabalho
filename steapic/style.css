@@ -44,7 +44,7 @@ div {
   input, textarea{
     width: 250px;
     padding: 5px;
-    font-size: 10px;
+    font-size: 18px;
     color: #333;
     border: 1px solid rgb(0, 40, 40);
     border-radius: 25px;
@@ -149,7 +149,7 @@ a, p, h1{
 .intec {
   width: 250px;
     padding: 5px;
-    font-size: 10px;
+    font-size: 18px;
     color: #ffffff;
     border: 1px solid rgb(0, 80, 80);
     border-radius: 25px;
